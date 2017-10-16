@@ -1,8 +1,6 @@
-# Cross-Region Replication for RDS
+# Labs: Cross-Region Replication for RDS
 
-I was recently asked if you can you set up cross-region replication on an RDS database instance? Yes you can!
-
-Here is how!
+I was recently asked if you can you set up cross-region replication on an RDS database instance? Yes you can! And here is how.
 
 # Motivation
 
